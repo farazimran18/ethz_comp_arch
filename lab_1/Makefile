@@ -16,4 +16,3 @@ run: sim
 
 clean:
 	rm -rf *.o *~ sim
-
